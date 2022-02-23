@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the sensible, thankful, and holy state of God's people and of his speaking to them both in the Old and New Covenant / by the servant of Christ, G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40306</idno>
+            <idno type="STC">Wing F1965</idno>
+            <idno type="STC">ESTC R28242</idno>
+            <idno type="EEBO-CITATION">10456087</idno>
+            <idno type="OCLC">ocm 10456087</idno>
+            <idno type="VID">45118</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40306)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45118)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1384:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the sensible, thankful, and holy state of God's people and of his speaking to them both in the Old and New Covenant / by the servant of Christ, G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45118:1"/>
+            <pb facs="tcp:45118:1" rendition="simple:additions"/>
+            <p>A True Account OF THE Senſible, Thankful and Holy State OF <hi>God's People.</hi> AND Of his ſpeaking to them both in the Old and New COVENANT.</p>
+            <p>
+               <hi>By the Servant of Chriſt</hi> G. F.</p>
+            <p>Printed in the Year 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:45118:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:45118:2" rendition="simple:additions"/>
+            <head>A true Account of the ſenſible, thankful and holy State of God's People, <hi>&amp;c.</hi>
+            </head>
+            <p>HEre you may ſee that all Gods People were a living and a ſenſible People, and did always for all things give thanks to God the Father, in the Name of Jeſus Chriſt.</p>
+            <p>And ſuch as were unholy, paſt feeling, and unſenſible, having a form of Godlineſs, but denying the power thereof, were unthank<g ref="char:EOLhyphen"/>ful, and to be turned away from, and that ſuch went in <hi>Cain</hi>'s, <hi>Corah</hi>'s and <hi>Baalam</hi>'s way, who did feed themſelves without the fear of God, and were like the Idolatrous <hi>Jews</hi> who forgot God, and did Eat and Drink, and roſe up to Play; and how that God deſtroyed ſuch who were unthankful and unſenſible of his Temporal and Spiritual Mercies</p>
+            <p>The Lord ſaid unto his People that were acquainted with him, and knew him, <hi>That when they gathered together their Corn and their Wine,</hi> &amp;c. <hi>They ſhould Eat it and Drink it in the Court of my Holineſs, and praiſe the Lord,</hi> Iſaiah 62.8, 9.</p>
+            <p>So here you may ſee, they that gathered together that which the Lord gave the encreaſe of, they were to Eat it and Drink it is the Court of the Lords Holineſs, and praiſe him, and they that gather the encreaſe of the Lords Fruits, and do eat them, they ſhould be ſenſible of the holineſs of his Courts, who filleth Heaven and Earth, who is worthy of all Praiſe and Glory for all his Mercies; and they that Eat and Drink that which the Lord, who hath made them, hath provided, are to be ſenſible in his Spirit that he is worthy of all Thanks and Praiſes, and ſo are not to be like the Idolatrous <hi>Jews</hi> who forgot the Lord and his great Power and Mercies, who had done ſuch great things for them both in <hi>Egypt,</hi> and in delivering them out of <hi>Egypt,</hi> who after <hi>Sat down to Eat and Drink, and roſe up to Play,</hi> 1 Cor. 10.7. Num. 25.9.</p>
+            <p>And there you may ſee what became of all thoſe who did not Eat and Drink in the Courts of Gods holineſs, and praiſe the Lord; and the that did and do forſake the right way of the Lord, and do go in the way of <hi>Cain, Corah</hi> and <hi>Baalam,</hi> are they that do feed themſelves without the fear of God, ſuch are the wandering Stars from the Fir<g ref="char:EOLhyphen"/>ment of Gods power, and are Trees that do not bear Fruit to God, and are Clouds, for people to ſtare at, without Water, and raging waves of the Sea ſoaming out their own ſhame, as in <hi>Jude</hi> 12, 13. And
+<pb n="4" facs="tcp:45118:3" rendition="simple:additions"/>ſuch were not, nor are not like to praiſe God in the Court of his holi<g ref="char:EOLhyphen"/>neſs for his daily Mercies they receive from him, ſuch look not after their way, whether it be the way of the Lord, or the way of <hi>Cain;</hi> and they which be in the way of <hi>Cain, Corah</hi> and <hi>Baalam</hi> eat the bread of Idleneſs, and are in the deſtroying Spirit; but they that be in the way of the Lord, praiſe him for his Bleſſings, Riches and Mercies that he daily giveth to them.</p>
+            <p>And you may ſee how the Chriſtians when they were converted un<g ref="char:EOLhyphen"/>to Chriſt, <hi>did eat their Meat with gladneſs and ſingleneſs of heart, praiſing God,</hi> Acts, 2.46, 47.</p>
+            <p>And the Apoſtle ſaith to the Church of Chriſt, <hi>Whatſoever ye do, do it heartily as to the Lord.</hi> And again the Apoſtle ſaith, <hi>Whatſoever ye do in Word or Deed, do all in the Name of the Lord Jeſus</hi> [Mark] in the Name of the Lord Jeſus, then ye muſt live in his Grace which giveth a ſence of the Lord Jeſus, <hi>giving thanks to God the Father by him,</hi> Col. 3.17, 23.</p>
+            <p>So here you may ſee there is nothing is to be done in Word or Deed, but all is to be done in the Name of the Lord Jeſus, and to give thanks to God the Father by him.</p>
+            <p>And again the Apoſtle ſaith to the Church of Chriſt, <hi>Whether ye do Eat, or Drink, or whatſoever ye do, do all to the glory of God,</hi> 1 Cor. 10.31.</p>
+            <p>Now all that profeſs themſelves Chriſtians, and Members of the Church of Chriſt, conſider this, whether ye Eat or Drink, or what<g ref="char:EOLhyphen"/>ſoever elſe ye do, that ye do all to the Glory of God; ſo ye are neither to Eat nor Drink, nor do any other thing but to the Glory of God, ſo that he may have the thanks, glory and praiſe through Jeſus Chriſt, who Created all things for his Glory by Jeſus Chriſt.</p>
+            <p>For the Apoſtle ſaith, <hi>The unthankful, unholy, without natural affecti<g ref="char:EOLhyphen"/>ons, truce breakers, falſe accuſers, incontinent, fierce diſpiſers of them that are good, having a form of Godlineſs, but denying the power thereof;</hi> from ſuch the Apoſtle commands the Church of Chriſt to turn away, 2 <hi>Tim.</hi> 3. So the Members of Chriſt have no unity with ſuch unthank<g ref="char:EOLhyphen"/>ful, unholy, and truce breakers.</p>
+            <p>And the Apoſtle ſaith, <hi>Give thanks always for all things unto God the Father in the Name of our Lord Jeſus Chriſt,</hi> Eph. 5.20.</p>
+            <p>So always, in all things, to give thanks to God the Father, in the Name of our Lord Jeſus Chriſt, ſhowing forth, that you are a feeling, and a ſenſible People of the mercies of the Lord through Chriſt Jeſus, who is worthy of all Thanks, Glory, Honour and Praiſe, for ever, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="tract">
+            <pb n="5" facs="tcp:45118:3" rendition="simple:additions"/>
+            <head>How the Lord ſpake unto <hi>Moſes</hi> in the outward Tabernacle in the Old Teſtament, and God ſpeaks now by his Son in the New Teſtament, in the Tabernacle and Hearts of his People.</head>
+            <p>THE Lord ſaid unto <hi>Moſes,</hi> when he and the <hi>Jews</hi> were to make the Tabernacle, <hi>Thou ſhalt put the Mercy-ſeat above the Ark, and in the Ark thou ſhall put the Teſtimony that I ſhall give thee, and there I will meet with thee, and I will Commune with thee from the Mercy-ſeat, from between the two Cherubins which are upon the Ark of the Teſtimony of all things which I ſhall give thee in Commandment unto the Children of</hi> Iſrael, <hi>Exod.</hi> 25.21, 22.</p>
+            <p>
+               <hi>And when</hi> Moſes <hi>was gone into the Tabernacle,</hi> &amp;c. <hi>to ſpeak with the Lord, then he heard the voice of God ſpeaking unto him from the Mercy-ſeat which was upon the Arke of the Teſtimony,</hi> and here the Lord ſpake to <hi>Moſes</hi> in the Tabernacle, as in <hi>Numb.</hi> 7.89.</p>
+            <p>
+               <hi>And when the Cloud did abide upon the Tabernacle the Children of</hi> Iſrael <hi>abode in their Tents; and when the Cloud was taken off the Taberna<g ref="char:EOLhyphen"/>cle, then the Children of</hi> Iſrael <hi>Journeyed; ſo at the Commandment of the Lord they Journeyed, and kept their Tents,</hi> Numb. 9.20. <hi>And the Glory of the Lord filled the Tabernacle,</hi> Exod. 40.34, 35.</p>
+            <p>Here you may ſee the Lord ſpoke to <hi>Moſes</hi> in the Tabernacle, and communed with him there, and what the Lord did ſpake to him in the Tabernacle he was to ſpake it to the Children of <hi>Iſrael,</hi> and the Teſtimony which the Lord gave to <hi>Moſes</hi> was in the Tabernacle; and was not the Candle-ſtick put in the Tabernacle which <hi>Moſes</hi> was to make in the old Teſtament? and the <hi>Jews</hi> were not to go on their Journey into the Land of <hi>Canaan</hi> but at the Commandment of God, and the Lord ſaid to <hi>Moſes, I will meet with you in the Tabernacle,</hi> Numb. 17.4. <hi>And the Stranger that cometh nigh the Tabernacle ſhall be put to Death.</hi>
+            </p>
+            <p>And the Lord bid <hi>Nathan</hi> go tell <hi>David, That Since the time that I brought the Children out of</hi> Egypt, <hi>even unto this day, that he had walked in a Tent, and in a Tabernacle,</hi> 2 Sam. 7.6. And <hi>Solomon</hi> built an outward Temple, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Chron.</hi> 3. In which Temple the Lord appeared unto the
+<pb n="6" facs="tcp:45118:4" rendition="simple:additions"/>
+               <hi>Jews,</hi> in all thoſe outward things which the Lord did command <hi>Moſes</hi> and his Servants to make, the Lord did appear in them in the old Co<g ref="char:EOLhyphen"/>venant and old Teſtament (which where Figures and Shadows of Chriſt the Subſtance, and of his Spiritual Houſe and Church in the new Teſtament) and were commanded in the Law, and ſerved till Chriſt the great Prophet came in the new Covenant and new Teſta<g ref="char:EOLhyphen"/>ment, who is to be heard in all things, and he the Subſtance putteth an end to all thoſe Figures and Shadows in the Law and old Teſtament, as namely the outward Tabernacle, Ark, Sanctuary and Temple, which were outward, and made with hands, where the Lord had for<g ref="char:EOLhyphen"/>merly ſpoke to the <hi>Jews</hi> in the old Teſtament and old Covenant; and in the new Teſtament God ſpeaketh to his Believers by his Son, as in <hi>Heb.</hi> 1. And Chriſt Jeſus enlighteneth every Man and Woman that cometh into the World, that is, he enlighteneth the Spirit of Man and Woman, which is the Candle of the Lord in every Mans and Wo<g ref="char:EOLhyphen"/>mans Tabernacle, that there they might here God ſpeaking to them by his Son, by his Light, Grace and Spirit from Heaven, at his Mer<g ref="char:EOLhyphen"/>cy-ſeat; and whatever any Man or Woman receiveth from God through Chriſt, they receive it in their Tabernacle, and there is a wit<g ref="char:EOLhyphen"/>neſs and a ſence of it in their Tabernacle or Temple, where the Glo<g ref="char:EOLhyphen"/>ry of the Lord appeareth; and Chriſt Jeſus doth rule in their hearts, in their Tabernacle, and the Lord pouring out of his Spirit upon all Fleſh, Men and Women, all that have received the Spirit of God, they are ſenſible of it, and its motions in their Tabernacle; and they that are led by the Spirit of God, they are ſenſible of Gods Spirit leading to the Land of the Living, and in this every one knows the voice and command of God from the Stranger and his voice, that muſt not come into the Tabernacle, but that muſt be mortified and killed, and by the Spirit of God; and every one that receiveth the Grace of God which bringeth Salvation, and hath appeared unto all men, they are ſenſible of this Grace and Favour of God in their Tabernacle, and of their growing in Grace, and receiving more Grace from the throne of Grace; and Chriſt being the Author and Finiſher of the holy divine precious Faith in Man and Woman, every one that receiveth it are ſenſible of it in their Tabernacle, and of Chriſt the Author and Fi<g ref="char:EOLhyphen"/>niſher of that Faith, and every one that believeth in the Light which Chriſt enlightens their Spirits withal, which is the Candle of the Lord in their Tabernacle, and ſo become Children of the Light, and in Chriſts Light they ſee more Light, and it ſhineth more and more un<g ref="char:EOLhyphen"/>till
+<pb n="7" facs="tcp:45118:4" rendition="simple:additions"/>the perfect day, and of this every Child of Light is ſenſible and hath a Teſtimony or Witneſs of this in their Temple or Tabernacle, in the new Teſtament, and do know that their Bodies are the Tem<g ref="char:EOLhyphen"/>ples of the holy Ghoſt, and of God, and Chriſt; and the Goſpel be<g ref="char:EOLhyphen"/>ing preached to or in every Creature under Heaven, every Man and Woman that receiveth this Goſpel of Life and Salvation are ſenſible, and have a Teſtimony or Witneſs of it in their Temple or Taber<g ref="char:EOLhyphen"/>nacle; and all that receive Gods Mercies and Bleſſings from above, and Tenderneſs, and Kindneſs, and Gifts from God, and Chriſt that aſ<g ref="char:EOLhyphen"/>cended on high, and of the Love of God ſhed in their hearts, they have a ſenſible Witneſs or Teſtimony of theſe things in their Taber<g ref="char:EOLhyphen"/>nacle and Temple, and there is aſcending praiſes to God on high from the Spirit of God in their Tabernacle and Temple, from whom they do receive infinite Mercies and Bleſſings; ſo if they do Pray in Spirit, and Sing in the Spirit to God, who is a Spirit, it is in the Tabernacle and Temple where the Spirit of God and Chriſt is within, and the Word of Faith, Life and Patience is in the Heart and Mouth to obey it, and to do it, and the anointing is within to teach God's People, and they need no man to teach, but as it teacheth, and this Teacher of God's People is within the Temple and Tabernacle, in the new Teſtament and Covenant, ſo that they need not run to the old Cove<g ref="char:EOLhyphen"/>nant and Teſtament, and to outward Sanctuaries and Temples made with hands, and to thoſe outward Teachers that may be removed into a corner; and the holy Ghoſt that proceeds from the Father and Son, that leadeth the true Believers into all Truth, this Leader is in the Taber<g ref="char:EOLhyphen"/>nacle and Temple; and in the new Covenant and Teſtament, God writeth his Law in the hearts of People, and puts it in their minds, whereby all may know the Lord, that they need not teach every man his Neighbour, ſaying know the Lord, for all from the greateſt to the leaſt ſhall know the Lord, and this knowledg of the Lord is known in every mans Temple and Tabernacle, in the new Covenant; for there is no Man nor Woman, from the higheſt to the loweſt, that hath any ſence or underſtanding, or knowledg of the Mercies and Good<g ref="char:EOLhyphen"/>neſs of the Lord, but it is by his Light and Spirit in their Tabernacle or Temple, all who are ſenſible of the heavenly Dew and the ſmall Rain, and the ſhowers of the Mercies of the Lord, they are ſenſible of them by the tender plant in their Tabernacle or Temple to his praiſe; and all thoſe who are Miniſters of Chriſt, and none can be Miniſters of Chriſt, or Preachers of Chriſt, and of his Word, Faith and
+<pb n="8" facs="tcp:45118:5" rendition="simple:additions"/>Goſpel, or Word of Life, or of the Grace of God, or be made Miniſters of the Spirit, except they have received theſe things from God and Chriſt by his Spirit in their Tabernacle and Temple; I ſay from God and Chriſt in their Tabernacle and Temple, then they can declare what Spiritual things they have received from the Lord in their Tabernacle and Temple, then ſuch are Miniſters of the Spirit, and Sowers to the Spirit in others, in their Tabernacle, which can ap<g ref="char:EOLhyphen"/>prehend the things of God, and diſcern them; ſo as every one hath received freely the gift from the Lord in their Tabernacle and Tem<g ref="char:EOLhyphen"/>ple by his Spirit, let them Miniſter it freely to others; and if they have not received it from the Lord into their Tabernacle and Temple by his Spirit, and have no Teſtimony and Witneſs of it in their Ta<g ref="char:EOLhyphen"/>bernacles, they are not Miniſters of Chriſt nor God, but are Mini<g ref="char:EOLhyphen"/>ſters of the Letter, which others have ſpoken forth from the Spirit of God in their Temple or Tabernacle, who was the Voice and Mouth of God, as God ſpake by the Mouth of all his holy Men and Women, in their Tabernacle, ſuch were and are the Miniſters of God and Chriſt in all Ages and Generations.</p>
+            <p>And Chriſt who doth enlighten every Man and Woman that com<g ref="char:EOLhyphen"/>eth into the World (that is) he doth enlighten every Man and Wo<g ref="char:EOLhyphen"/>mans Spirit, which is the Candle of the Lord in their Temple or Ta<g ref="char:EOLhyphen"/>bernacle, and how often do the Wicked, by turning from the Light of Chriſt, which enlightens their Candles, by their hating the Light of Chriſt, and going away from it into evil Deeds and Works, and lo<g ref="char:EOLhyphen"/>ving the Darkneſs more than the Light, put out their Candle, their Spirit, which Chriſt hath enlightened? and when the Candle is put out, their Houſes are Houſes of Darkneſs, full of Darkneſs, Spiritual <hi>Egypt,</hi> and do Oppreſs and Perſecute the <hi>Jew</hi> inward; and ſuch whoſe Candle is put out, they are gone from the Light, and they ſeek to bring all others from the Light, and put out their Candles, in drawing their Minds and Spirits from the Light of Chriſt that doth enlighten them, and call the Light of Chriſt, which enlightens their Spirits (which are the Candles of the Lord, in their Temple and Tabernacle) a natural, created and made Light, or a natural Conſcience, which Light is the Life in Chriſt by which all things were made and Created, and thus they go about in their Errour of Darkneſs, who have put out their own Candles, and ſeek to put out the Candles of others, who ſeek to ſhut up the Kingdom of Heaven from men, who are ſhut out of the Kingdom of Heaven themſelves, and hate the Light, the King<g ref="char:EOLhyphen"/>dom
+<pb n="9" facs="tcp:45118:5" rendition="simple:additions"/>of God and Chriſt, and the Light of the heavenly <hi>Jeruſalem,</hi> and love the Darkneſs, and the Kingdom of Darkneſs more then the Light and Kingdom of Chriſt, and all thoſe Teachers, or Preachers, or Profeſſors, or Profain that call the Light (which is the Life in Chriſt the Word, by which all things were made and Created) a na<g ref="char:EOLhyphen"/>tural Light, and a created Light, and a made Light, or a natural Conſcience, or a Jack in the Wiſe, or a dark Lanthorn, they have put out their Candle which Chriſt hath lighted in their Tabernacle, and they ſeek to put out the Candle of others in their Tabernacles, in drawing them from the Light, which is the Life in Chriſt, which en<g ref="char:EOLhyphen"/>lightened their Candle, the Spirit of man in their Tabernacle, for it is the Light of Chriſt that ſhineth in their heart, which enlighteneth the Spirit of man, the Candle of the Lord in their Tabernacle, that giveth the Light of the knowledg of the Glory of God in the Face of Chriſt Jeſus, 2 <hi>Cor.</hi> 4.</p>
+            <p>And the Lord ſaid to <hi>Abraham, I well Bleſs them that Bleſs thee, and Curſe them that Curſe thee, and in thee and thy Seed ſhall all the Nations, or all the Families of the Earth be Bleſſed,</hi> Gen. 12.3 and 18.18.</p>
+            <p>So here the World ſhall reco<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e by the Seed, which is Chriſt, the Bleſſings which they loſt in fallen <hi>Adam,</hi> for Chriſt who bruiſes the Serpents Head, who deſtroyeth the Devil and his Works, who ma<g ref="char:EOLhyphen"/>king Peace, through the Blood of his Croſs, by him to reconcile all things unto himſelf, by him, (I ſay) whether they be things in the Earth or things in Heaven, <hi>Colleſ.</hi> 1.20.</p>
+            <p>
+               <hi>And Chriſt by the Grace of God taſted Death for every man,</hi> Heb. 2.9.</p>
+            <p>
+               <hi>For as all men dyed in</hi> Adam, <hi>even ſo in</hi> Chriſt <hi>ſhall all be made alive; and ſo by man came Death</hi> (namely <hi>Adam</hi>) <hi>and by man came alſo the Reſur<g ref="char:EOLhyphen"/>rection of the Dead</hi> (namely <hi>Chriſt</hi>) 1 Cor. 15.21, 22.</p>
+            <p>So here you may ſee all dyed in <hi>Adam,</hi> then they are dead from e<g ref="char:EOLhyphen"/>ternal Life, but Chriſt by the Grace and Favour of God to mankind (that is dead in <hi>Adam</hi>) taſted Death for every man, ſo he hath Ran<g ref="char:EOLhyphen"/>ſomed them, and Purchaſed them by his Death, out of the Death of <hi>Adam</hi> in the Fall, into the Life that Man and Woman were in before they Fell, and into himſelf that never fell; and Chriſt doth enlighten every man that cometh into the World, with his divine heavenly Light, which is the Life in Chriſt the Word, by whom all things were made, that with his Light in their hearts, all Men and Women may know Chriſt Jeſus that hath Redeemed them, and dyed for them and their Sins and Treſpaſſes, and is riſen for their Juſtification.</p>
+            <pb n="10" facs="tcp:45118:6" rendition="simple:additions"/>
+            <p>And God having poured out of his Spirit of Grace upon all Fleſh, that by his Spirit they might know and ſee the things of God, and his Glory, and with the Spirit of Grace they might ſee Gods Love and Favour to them in Chriſt Jeſus, and how that they are dead in fallen <hi>Adam,</hi> and how that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey are made alive again by Chriſt Jeſus the ſecond <hi>Adam,</hi> the Lord from Heaven, and how that Chriſt is their Reſurrection from the Dead, into the Life Everlaſting in him, and how Chriſt doth a waken them out of the Sleep of Sin and Death in <hi>Adam,</hi> and bringeth them into his everlaſting Righteouſneſs, that they may praiſe God through Jeſus Chriſt.</p>
+            <p>And in the old Covenant and old Teſtament, for the Sins and tranſ<g ref="char:EOLhyphen"/>greſſions of Man and Woman, the Clean Beaſts and other Creatures were put to Death, and their Blood was ſhed, and they were offered as a Sacrifice for the Sins and Tranſgreſſions of the People, and their Blood was ſprinkled upon the People and the Tabernacle, and almoſt all things were by the Law purged with Blood, and without ſhedding of Blood is no Remiſſion of Sin; ſo here the Blood of the clean Crea<g ref="char:EOLhyphen"/>tures were ſhed, and they offered up as a Sacrifice for Man and Womans Sins and Tranſgreſſions, the <hi>Lambs, Goats, Rams, Heifers, Pigeons, Doves</hi> and <hi>Sparrows,</hi> &amp;c. theſe were put to Death and their Blood ſhed and offered up for Man and Woman, which were types of Chriſt Jeſus the Lamb of God, in the new Covenant and new Teſtament, who through the eternal Spirit offered up himſelf without ſpot to God, and purgeth our Conſciences from dead Works to ſerve the living God; who ſaid, I come, in the Volume of the Book that is written of me to do the Will of God, namely, the Volume of the Book of Pro<g ref="char:EOLhyphen"/>phecies, Promiſes, Types, Figures and Shadows, and that he might take away the firſt (namely) Covenant and Teſtament, and eſta<g ref="char:EOLhyphen"/>bliſh the ſecond (namely) Covenant and Teſtament, by the which Will (namely) of God we are Sanctified through the offering of the Body of Jeſus Chriſt once for all, for by one offering he hath perfected for ever them that are Sanctified, <hi>Heb.</hi> 9, 10, <hi>chap.</hi>
+            </p>
+            <p>Here all may ſee Chriſt the Lamb of God. (who is the Offering, and offered up his Body by the eternal Spirit of God once for all) endeth all the Offerings and Sacrifices amongſt the <hi>Jews;</hi> he the holy Lamb taſted Death for every man that is dead in <hi>Adam,</hi> in their Sins and Tranſgreſſions; ſo he that taſted Death for every man, hath ſhed his Blrod for all men, and ſo his Blood is ſprinkled upon all men, that they might drink it, and have life through the Sanctification of the Spirit,
+<pb n="11" facs="tcp:45118:6" rendition="simple:additions"/>and Obedience, and Sprinkling of the Blood of Jeſus, <hi>Heb.</hi> 12.24. 1 <hi>Pet.</hi> 1.2.</p>
+            <p>So now all in the new Teſtament and new Covenant are to look to be cleanſed and purged by the Blood of the everlaſting Covenant, Chriſt Jeſus, which ſprinkleth their Conſciences and Tabernacle, and in it to have Life, and to know Chriſt that was Crucified, and dyed for their Sins, and ſo by the Grace or Favour of God hath taſted Death for every man, ſo he is the offering for the Sins of the whole World, which Offering or Sacrifice God doth well accept; who is the Lamb of God that taketh away the Sins of the World, ſo maketh an end of Sin and finiſheth Tranſgreſſions, and deſtroyeth the Devil and his Works, and bringeth in everlaſting Righteouſneſs, that all might walk in his Light and Spirit of Grace, in the Truth, and in his ever<g ref="char:EOLhyphen"/>laſting Righteouſneſs, to the praiſe and glory of God through Chriſt Jeſus, who is a propitiation for our Sins, and not for our Sins only, but for the Sins of the whole World, <hi>And is the one Mediatour betwixt God and Man, the man Chriſt Jeſus, who gave himſelf a Ranſom for all, to be teſtified of in due time,</hi> 1 Tim 2.5, 6. 1 <hi>Pet.</hi> 1.18. So we are Redeem<g ref="char:EOLhyphen"/>ed not with corruptible things, as Silver and Gold, from the outward Figures and Traditions of the <hi>Jews,</hi> and from our vain Converſation, but with the precious Blood of Chriſt as a Lamb ſlain, without Blemiſh and without Spot, who was ordained before the Foundation of the World, but was manifeſt in theſe laſt times for you, who by him do be<g ref="char:EOLhyphen"/>lieve in God that raiſed him up from the Dead, &amp; gave him Glory, that your Faith and Hope might be in God through Chriſt, as in 1 <hi>Pet</hi> 1.21.</p>
+            <p>Chriſt being Offered and Sacrificed for Sins and Tranſgreſſions of Men and Women, he endeth all the Offerings and Sacrifices of the Beaſts, and other Creatures in the old Teſtament.</p>
+            <p>And Chriſt being Slain and put to Death, and his Blood ſhed for the Sins and Tranſgreſſions of Men and Women, he alſo made an end of the putting to Death, and Killing, and Slaying, and Shedding the Blood of <hi>Rams, Lambs, Heifers, Goats</hi> and other Creatures for the Sins and Tranſgreſſions of Men and Women in the old Teſtament and Covenant, ſo the Offering, Sacrificing, putting to Death and ſhedding the Blood of Chriſt (I ſay) putteth an end to that Prieſthood that ſlew and put to Death, and ſhed the Blood, and Offered, and Sacrificed the outward dumb clean Creatures for the Sins and Tranſgreſſions of Men and Women in the old Teſtament, for the old Teſtament and Covenant was eſtabliſhed by the Blood of the outward clean Crea<g ref="char:EOLhyphen"/>tures,
+<pb n="12" facs="tcp:45118:7" rendition="simple:additions"/>but the new Covenant and new Teſtament is eſtabliſhed by the Blood of Chriſt, the Blood of the everlaſting Covenant, by whoſe Blood we are Waſhed, and Cleanſed, and Sanctified, and made Clean, and preſented to God.</p>
+            <p>So the clean Beaſts were Killed and Slain, and put to Death in the old Covenant, for the Sins of Men and Women.</p>
+            <p>But Chriſt in his new Covenant is the Lamb without Blemiſh, and was Killed, Slain and put to Death for the Sins of the whole World, in the new Covenant.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:45118:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
